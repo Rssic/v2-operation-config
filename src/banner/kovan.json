@@ -1,0 +1,32 @@
+[
+  {
+    "address": "0x9c1572837bc62379d40ee9be4ba2394434cddc9f",
+    "expiry": "0",
+    "symbol": "ETH-DAI-Perpetual",
+    "img": ""
+  },
+  {
+    "address": "0x56c35d0e7b666a39ca3494207bed6068bc9298fe",
+    "expiry": "0",
+    "symbol": "ETH-USDT-Perpetual",
+    "img": ""
+  },
+  {
+    "address": "0x1ffd03b119c4099d863c4bc447f79f74bf7a1abc",
+    "expiry": "0",
+    "symbol": "BTC-USDT-Perpetual",
+    "img": ""
+  },
+  {
+    "address": "0xddadcd652cc536736462750622f538cd5a22b72d",
+    "expiry": "0",
+    "symbol": "ETH-USDC-Perpetual",
+    "img": ""
+  },
+  {
+    "address": "0xc2f2222ed36ebcf1825274c634e1b70a4b306926",
+    "expiry": "0",
+    "symbol": "BTC-USDC-Perpetual",
+    "img": ""
+  }
+]
