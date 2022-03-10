@@ -1,6 +1,6 @@
 {
   "name": "@synfutures/v2-operation-config",
-  "version": "0.0.25",
+  "version": "0.0.1",
   "description": "operation config for SynFutures v2 app.",
   "author": "SynFutures",
   "main": "build/main.js",
