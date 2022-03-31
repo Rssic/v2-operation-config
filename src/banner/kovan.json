@@ -5,37 +5,37 @@
         "address": "0x1b2b5b627c6959179f5a0b5d82edf553fcfccbaa",
         "expiry": "0",
         "symbol": "ETH-DAI-Perpetual",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.svg"
+        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
       },
       {
         "address": "0xc39a974bd385010ec96bf2ab13dc11e9c3aee256",
         "expiry": "0",
         "symbol": "ETH-USDT-Perpetual",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_gain.svg"
+        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_gain.png"
       },
       {
         "address": "0xd8fa4fc6e7046d195298ad9c9400430be370fd51",
         "expiry": "0",
         "symbol": "SNX-DAI-Perpetual",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_volume.svg"
+        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_volume.png"
       },
       {
         "address": "0xa881a4596131380cd75657c3393b7496d48e0cb2",
         "expiry": "0",
         "symbol": "ETH-USDC-Perpetual",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_default.svg"
+        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_default.png"
       },
       {
         "address": "0xf6ed7058c10ef23f041fd981fe86fe1c54060442",
         "expiry": "0",
         "symbol": "BTC-USDC-Perpetual",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.svg"
+        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
       },
       {
         "address": "0xc39a974bd385010ec96bf2ab13dc11e9c3aee256",
         "expiry": "1649059200",
         "symbol": "ETH-USDT-0404",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.svg"
+        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
       }
     ],
     "pool": [
@@ -43,31 +43,31 @@
         "address": "0x1b2b5b627c6959179f5a0b5d82edf553fcfccbaa",
         "expiry": "0",
         "symbol": "ETH-DAI-Perpetual",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.svg"
+        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
       },
       {
         "address": "0xc39a974bd385010ec96bf2ab13dc11e9c3aee256",
         "expiry": "0",
         "symbol": "ETH-USDT-Perpetual",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_gain.svg"
+        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_gain.png"
       },
       {
         "address": "0xd8fa4fc6e7046d195298ad9c9400430be370fd51",
         "expiry": "0",
         "symbol": "SNX-DAI-Perpetual",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_volume.svg"
+        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_volume.png"
       },
       {
         "address": "0xa881a4596131380cd75657c3393b7496d48e0cb2",
         "expiry": "0",
         "symbol": "ETH-USDC-Perpetual",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_default.svg"
+        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_default.png"
       },
       {
         "address": "0xf6ed7058c10ef23f041fd981fe86fe1c54060442",
         "expiry": "0",
         "symbol": "BTC-USDC-Perpetual",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.svg"
+        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
       }
     ]
   }
