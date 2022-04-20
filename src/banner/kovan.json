@@ -2,37 +2,31 @@
   "usd": {
     "trade": [
       {
-        "address": "0x33c78bb3dbe5ceb91d7b7e2b690aa4ea3c139f53",
+        "address": "0x6caf6b9fb599ed6487f184ba25cfdab866755587",
         "expiry": "0",
         "symbol": "ETH-USDC-PERP",
         "img": ""
       },
       {
-        "address": "0x7826a7b84c9606d93ca65435293e181473a83d51",
+        "address": "0x3e63cb378ca5e47a181c7b22b60008b964c91228",
         "expiry": "0",
         "symbol": "BTC-USDC-PERP",
         "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
       },
       {
-        "address": "0xa28cca013c088bb0ce38d2edc39b38cca9b75345",
+        "address": "0x68ed1f08a4eecc77a7c253698c3de2e933371ca8",
         "expiry": "0",
         "symbol": "BNB-USDC-PERP",
         "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_volume.png"
       },
       {
-        "address": "0x09561f27a08e02bab80c71111073c13ef642e516",
+        "address": "0x15ff7ffbcae4a14208c0f27d901fd2ef2f9441ad",
         "expiry": "0",
         "symbol": "UNI-USDC-PERP",
         "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_gain.png"
       },
       {
-        "address": "0xca4750fed1fb3f34109f4931cac7728533431307",
-        "expiry": "0",
-        "symbol": "SNX-USDC-PERP",
-        "img": ""
-      },
-      {
-        "address": "0x4ed3af3b9816888182c339c6dd27046f921ab4f9",
+        "address": "0x42900f52c7ce194f8a12e3c70c56461c0e8705d0",
         "expiry": "0",
         "symbol": "LINK-USDC-PERP",
         "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
@@ -40,37 +34,31 @@
     ],
     "pool": [
       {
-        "address": "0x09561f27a08e02bab80c71111073c13ef642e516",
+        "address": "0x68ed1f08a4eecc77a7c253698c3de2e933371ca8",
         "expiry": "0",
         "symbol": "BNB-USDC-PERP",
         "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_volume.png"
       },
       {
-        "address": "0x33c78bb3dbe5ceb91d7b7e2b690aa4ea3c139f53",
+        "address": "0x6caf6b9fb599ed6487f184ba25cfdab866755587",
         "expiry": "0",
         "symbol": "ETH-USDC-PERP",
         "img": ""
       },
       {
-        "address": "0x7826a7b84c9606d93ca65435293e181473a83d51",
+        "address": "0x3e63cb378ca5e47a181c7b22b60008b964c91228",
         "expiry": "0",
         "symbol": "BTC-USDC-PERP",
         "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
       },
       {
-        "address": "0x09561f27a08e02bab80c71111073c13ef642e516",
+        "address": "0x15ff7ffbcae4a14208c0f27d901fd2ef2f9441ad",
         "expiry": "0",
         "symbol": "UNI-USDC-PERP",
         "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_gain.png"
       },
       {
-        "address": "0xca4750fed1fb3f34109f4931cac7728533431307",
-        "expiry": "0",
-        "symbol": "SNX-USDC-PERP",
-        "img": ""
-      },
-      {
-        "address": "0x4ed3af3b9816888182c339c6dd27046f921ab4f9",
+        "address": "0x42900f52c7ce194f8a12e3c70c56461c0e8705d0",
         "expiry": "0",
         "symbol": "LINK-USDC-PERP",
         "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
