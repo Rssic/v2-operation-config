@@ -5,7 +5,7 @@
         "address": "0x6caf6b9fb599ed6487f184ba25cfdab866755587",
         "expiry": "0",
         "symbol": "ETH-USDC-PERP",
-        "img": ""
+        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
       },
       {
         "address": "0x3e63cb378ca5e47a181c7b22b60008b964c91228",
@@ -43,7 +43,7 @@
         "address": "0x6caf6b9fb599ed6487f184ba25cfdab866755587",
         "expiry": "0",
         "symbol": "ETH-USDC-PERP",
-        "img": ""
+        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
       },
       {
         "address": "0x3e63cb378ca5e47a181c7b22b60008b964c91228",

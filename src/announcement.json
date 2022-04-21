@@ -1,7 +1,7 @@
 {
   "nonce": 1,
   "isShow": true,
-  "desc": "Polygon is experiencing stability issues that may impact your Polygon transactions. This is under investigation.Polygon is experiencing stability issues that may impact your Polygon transactions.",
-  "link": "https://v2-testnet.synfutures.com/usd/trade",
-  "linkName": "Link to synfutures"
+  "desc": "This is a testnet environment only. We appreciate your feedbacks on bugs/experience via the official Discord channel.",
+  "link": "https://discord.gg/jtUykm8bay",
+  "linkName": "Feedback"
 }
