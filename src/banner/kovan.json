@@ -5,7 +5,7 @@
         "address": "0x33c78bb3dbe5ceb91d7b7e2b690aa4ea3c139f53",
         "expiry": "0",
         "symbol": "ETH-USDC-PERP",
-        "img": ""
+        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
       },
       {
         "address": "0x7826a7b84c9606d93ca65435293e181473a83d51",
@@ -29,7 +29,7 @@
         "address": "0xca4750fed1fb3f34109f4931cac7728533431307",
         "expiry": "0",
         "symbol": "SNX-USDC-PERP",
-        "img": ""
+        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
       },
       {
         "address": "0x4ed3af3b9816888182c339c6dd27046f921ab4f9",
@@ -49,7 +49,7 @@
         "address": "0x33c78bb3dbe5ceb91d7b7e2b690aa4ea3c139f53",
         "expiry": "0",
         "symbol": "ETH-USDC-PERP",
-        "img": ""
+        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
       },
       {
         "address": "0x7826a7b84c9606d93ca65435293e181473a83d51",
@@ -67,7 +67,7 @@
         "address": "0xca4750fed1fb3f34109f4931cac7728533431307",
         "expiry": "0",
         "symbol": "SNX-USDC-PERP",
-        "img": ""
+        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
       },
       {
         "address": "0x4ed3af3b9816888182c339c6dd27046f921ab4f9",
