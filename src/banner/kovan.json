@@ -64,5 +64,59 @@
         "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
       }
     ]
+  },
+  "coin": {
+    "trade": [
+      {
+        "address": "0x3656ec5f15880cba9c1a20edf8305af885787d3a",
+        "expiry": "0",
+        "symbol": "MATIC-USDC-PERP",
+        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
+      },
+      {
+        "address": "0x3656ec5f15880cba9c1a20edf8305af885787d3a",
+        "expiry": "0",
+        "symbol": "MATIC-USDC-PERP",
+        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_volume.png"
+      },
+      {
+        "address": "0x3656ec5f15880cba9c1a20edf8305af885787d3a",
+        "expiry": "0",
+        "symbol": "MATIC-USDC-PERP",
+        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_gain.png"
+      },
+      {
+        "address": "0x3656ec5f15880cba9c1a20edf8305af885787d3a",
+        "expiry": "0",
+        "symbol": "MATIC-USDC-PERP",
+        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
+      }
+    ],
+    "pool": [
+      {
+        "address": "0x3656ec5f15880cba9c1a20edf8305af885787d3a",
+        "expiry": "0",
+        "symbol": "MATIC-USDC-PERP",
+        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
+      },
+      {
+        "address": "0x3656ec5f15880cba9c1a20edf8305af885787d3a",
+        "expiry": "0",
+        "symbol": "MATIC-USDC-PERP",
+        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_volume.png"
+      },
+      {
+        "address": "0x3656ec5f15880cba9c1a20edf8305af885787d3a",
+        "expiry": "0",
+        "symbol": "MATIC-USDC-PERP",
+        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_gain.png"
+      },
+      {
+        "address": "0x3656ec5f15880cba9c1a20edf8305af885787d3a",
+        "expiry": "0",
+        "symbol": "MATIC-USDC-PERP",
+        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
+      }
+    ]
   }
 }
