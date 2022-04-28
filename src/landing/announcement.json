@@ -3,5 +3,6 @@
   "isShow": true,
   "desc": "SynFutures V2 is live on Testnet. Read the announcement and try it out now 🚀🚀🚀",
   "link": "https://medium.com/synfutures/introducing-the-synfutures-v2-testnet-3e6eb5c6770d",
-  "linkName": "Announcement"
+  "linkName": "Announcement",
+  "isOpenNewWindow": true
 }

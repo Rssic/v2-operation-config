@@ -3,5 +3,6 @@
   "isShow": true,
   "desc": "This is a testnet environment only. We appreciate your feedbacks on bugs/experience via the official Discord channel.",
   "link": "https://discord.gg/jtUykm8bay",
-  "linkName": "Feedback"
+  "linkName": "Feedback",
+  "isOpenNewWindow": true
 }
