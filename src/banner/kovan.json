@@ -5,31 +5,46 @@
         "address": "0xcc1f1b07a347d8ec88959d29ab981e758c0007f6",
         "expiry": "0",
         "symbol": "ETH-USDC-PERP",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
+        "img": {
+          "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_trending.png",
+          "light-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/light/topic_trending.png"
+        }
       },
       {
         "address": "0x83ce36609122e73e08c2e1b4c68fc9384c7d87e3",
         "expiry": "0",
         "symbol": "BTC-USDC-PERP",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
+        "img": {
+          "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_trending.png",
+          "light-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/light/topic_trending.png"
+        }
       },
       {
         "address": "0x83ce36609122e73e08c2e1b4c68fc9384c7d87e3",
         "expiry": "0",
         "symbol": "BTC-USDC-PERP",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_volume.png"
+        "img": {
+          "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_volume.png",
+          "light-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/light/topic_volume.png"
+        }
       },
       {
         "address": "0x83ce36609122e73e08c2e1b4c68fc9384c7d87e3",
         "expiry": "0",
         "symbol": "BTC-USDC-PERP",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_gain.png"
+        "img": {
+          "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_gain.png",
+          "light-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/light/topic_gain.png"
+        }
       },
       {
         "address": "0x83ce36609122e73e08c2e1b4c68fc9384c7d87e3",
         "expiry": "0",
         "symbol": "BTC-USDC-PERP",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
+        "img": {
+          "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_trending.png",
+          "light-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/light/topic_trending.png"
+        }
       }
     ],
     "pool": [
@@ -37,31 +52,46 @@
         "address": "0x83ce36609122e73e08c2e1b4c68fc9384c7d87e3",
         "expiry": "0",
         "symbol": "BTC-USDC-PERP",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_volume.png"
+        "img": {
+          "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_volume.png",
+          "light-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/light/topic_volume.png"
+        }
       },
       {
         "address": "0xcc1f1b07a347d8ec88959d29ab981e758c0007f6",
         "expiry": "0",
         "symbol": "ETH-USDC-PERP",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
+        "img": {
+          "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_trending.png",
+          "light-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/light/topic_trending.png"
+        }
       },
       {
         "address": "0x83ce36609122e73e08c2e1b4c68fc9384c7d87e3",
         "expiry": "0",
         "symbol": "BTC-USDC-PERP",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
+        "img": {
+          "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_trending.png",
+          "light-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/light/topic_trending.png"
+        }
       },
       {
         "address": "0x83ce36609122e73e08c2e1b4c68fc9384c7d87e3",
         "expiry": "0",
         "symbol": "BTC-USDC-PERP",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_gain.png"
+        "img": {
+          "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_gain.png",
+          "light-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/light/topic_gain.png"
+        }
       },
       {
         "address": "0x83ce36609122e73e08c2e1b4c68fc9384c7d87e3",
         "expiry": "0",
         "symbol": "BTC-USDC-PERP",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
+        "img": {
+          "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_trending.png",
+          "light-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/light/topic_trending.png"
+        }
       }
     ]
   },
@@ -71,25 +101,37 @@
         "address": "0x3656ec5f15880cba9c1a20edf8305af885787d3a",
         "expiry": "0",
         "symbol": "MATIC-USDC-PERP",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
+        "img": {
+          "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_trending.png",
+          "light-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/light/topic_trending.png"
+        }
       },
       {
         "address": "0x3656ec5f15880cba9c1a20edf8305af885787d3a",
         "expiry": "0",
         "symbol": "MATIC-USDC-PERP",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_volume.png"
+        "img": {
+          "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_volume.png",
+          "light-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/light/topic_volume.png"
+        }
       },
       {
         "address": "0x3656ec5f15880cba9c1a20edf8305af885787d3a",
         "expiry": "0",
         "symbol": "MATIC-USDC-PERP",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_gain.png"
+        "img": {
+          "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_gain.png",
+          "light-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/light/topic_gain.png"
+        }
       },
       {
         "address": "0x3656ec5f15880cba9c1a20edf8305af885787d3a",
         "expiry": "0",
         "symbol": "MATIC-USDC-PERP",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
+        "img": {
+          "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_trending.png",
+          "light-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/light/topic_trending.png"
+        }
       }
     ],
     "pool": [
@@ -97,25 +139,37 @@
         "address": "0x3656ec5f15880cba9c1a20edf8305af885787d3a",
         "expiry": "0",
         "symbol": "MATIC-USDC-PERP",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
+        "img": {
+          "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_trending.png",
+          "light-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/light/topic_trending.png"
+        }
       },
       {
         "address": "0x3656ec5f15880cba9c1a20edf8305af885787d3a",
         "expiry": "0",
         "symbol": "MATIC-USDC-PERP",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_volume.png"
+        "img": {
+          "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_volume.png",
+          "light-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/light/topic_volume.png"
+        }
       },
       {
         "address": "0x3656ec5f15880cba9c1a20edf8305af885787d3a",
         "expiry": "0",
         "symbol": "MATIC-USDC-PERP",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_gain.png"
+        "img": {
+          "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_gain.png",
+          "light-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/light/topic_gain.png"
+        }
       },
       {
         "address": "0x3656ec5f15880cba9c1a20edf8305af885787d3a",
         "expiry": "0",
         "symbol": "MATIC-USDC-PERP",
-        "img": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/topic_trending.png"
+        "img": {
+          "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_trending.png",
+          "light-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/light/topic_trending.png"
+        }
       }
     ]
   }
