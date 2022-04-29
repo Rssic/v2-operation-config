@@ -2,7 +2,7 @@
   "usd": {
     "trade": [
       {
-        "address": "0xcc1f1b07a347d8ec88959d29ab981e758c0007f6",
+        "address": "0xbb87d267e1663773a6edaa8dc665505434c2cb32",
         "expiry": "0",
         "symbol": "ETH-USDC-PERP",
         "img": {
@@ -11,7 +11,7 @@
         }
       },
       {
-        "address": "0x83ce36609122e73e08c2e1b4c68fc9384c7d87e3",
+        "address": "0xcbc5dde5a0ffbd8d4e2f69401e99055e1c2d0f15",
         "expiry": "0",
         "symbol": "BTC-USDC-PERP",
         "img": {
@@ -20,7 +20,7 @@
         }
       },
       {
-        "address": "0x83ce36609122e73e08c2e1b4c68fc9384c7d87e3",
+        "address": "0xcbc5dde5a0ffbd8d4e2f69401e99055e1c2d0f15",
         "expiry": "0",
         "symbol": "BTC-USDC-PERP",
         "img": {
@@ -29,7 +29,7 @@
         }
       },
       {
-        "address": "0x83ce36609122e73e08c2e1b4c68fc9384c7d87e3",
+        "address": "0xcbc5dde5a0ffbd8d4e2f69401e99055e1c2d0f15",
         "expiry": "0",
         "symbol": "BTC-USDC-PERP",
         "img": {
@@ -38,7 +38,7 @@
         }
       },
       {
-        "address": "0x83ce36609122e73e08c2e1b4c68fc9384c7d87e3",
+        "address": "0xcbc5dde5a0ffbd8d4e2f69401e99055e1c2d0f15",
         "expiry": "0",
         "symbol": "BTC-USDC-PERP",
         "img": {
@@ -49,7 +49,7 @@
     ],
     "pool": [
       {
-        "address": "0x83ce36609122e73e08c2e1b4c68fc9384c7d87e3",
+        "address": "0xcbc5dde5a0ffbd8d4e2f69401e99055e1c2d0f15",
         "expiry": "0",
         "symbol": "BTC-USDC-PERP",
         "img": {
@@ -58,7 +58,7 @@
         }
       },
       {
-        "address": "0xcc1f1b07a347d8ec88959d29ab981e758c0007f6",
+        "address": "0xbb87d267e1663773a6edaa8dc665505434c2cb32",
         "expiry": "0",
         "symbol": "ETH-USDC-PERP",
         "img": {
@@ -67,7 +67,7 @@
         }
       },
       {
-        "address": "0x83ce36609122e73e08c2e1b4c68fc9384c7d87e3",
+        "address": "0xcbc5dde5a0ffbd8d4e2f69401e99055e1c2d0f15",
         "expiry": "0",
         "symbol": "BTC-USDC-PERP",
         "img": {
@@ -76,7 +76,7 @@
         }
       },
       {
-        "address": "0x83ce36609122e73e08c2e1b4c68fc9384c7d87e3",
+        "address": "0xcbc5dde5a0ffbd8d4e2f69401e99055e1c2d0f15",
         "expiry": "0",
         "symbol": "BTC-USDC-PERP",
         "img": {
@@ -85,7 +85,7 @@
         }
       },
       {
-        "address": "0x83ce36609122e73e08c2e1b4c68fc9384c7d87e3",
+        "address": "0xcbc5dde5a0ffbd8d4e2f69401e99055e1c2d0f15",
         "expiry": "0",
         "symbol": "BTC-USDC-PERP",
         "img": {
@@ -98,7 +98,7 @@
   "coin": {
     "trade": [
       {
-        "address": "0x3656ec5f15880cba9c1a20edf8305af885787d3a",
+        "address": "0xadfa78149c0557e89491ebac82ed850b096b5730",
         "expiry": "0",
         "symbol": "MATIC-USDC-PERP",
         "img": {
@@ -107,7 +107,7 @@
         }
       },
       {
-        "address": "0x3656ec5f15880cba9c1a20edf8305af885787d3a",
+        "address": "0xadfa78149c0557e89491ebac82ed850b096b5730",
         "expiry": "0",
         "symbol": "MATIC-USDC-PERP",
         "img": {
@@ -116,7 +116,7 @@
         }
       },
       {
-        "address": "0x3656ec5f15880cba9c1a20edf8305af885787d3a",
+        "address": "0xadfa78149c0557e89491ebac82ed850b096b5730",
         "expiry": "0",
         "symbol": "MATIC-USDC-PERP",
         "img": {
@@ -125,7 +125,7 @@
         }
       },
       {
-        "address": "0x3656ec5f15880cba9c1a20edf8305af885787d3a",
+        "address": "0xadfa78149c0557e89491ebac82ed850b096b5730",
         "expiry": "0",
         "symbol": "MATIC-USDC-PERP",
         "img": {
@@ -136,7 +136,7 @@
     ],
     "pool": [
       {
-        "address": "0x3656ec5f15880cba9c1a20edf8305af885787d3a",
+        "address": "0xadfa78149c0557e89491ebac82ed850b096b5730",
         "expiry": "0",
         "symbol": "MATIC-USDC-PERP",
         "img": {
@@ -145,7 +145,7 @@
         }
       },
       {
-        "address": "0x3656ec5f15880cba9c1a20edf8305af885787d3a",
+        "address": "0xadfa78149c0557e89491ebac82ed850b096b5730",
         "expiry": "0",
         "symbol": "MATIC-USDC-PERP",
         "img": {
@@ -154,7 +154,7 @@
         }
       },
       {
-        "address": "0x3656ec5f15880cba9c1a20edf8305af885787d3a",
+        "address": "0xadfa78149c0557e89491ebac82ed850b096b5730",
         "expiry": "0",
         "symbol": "MATIC-USDC-PERP",
         "img": {
@@ -163,7 +163,7 @@
         }
       },
       {
-        "address": "0x3656ec5f15880cba9c1a20edf8305af885787d3a",
+        "address": "0xadfa78149c0557e89491ebac82ed850b096b5730",
         "expiry": "0",
         "symbol": "MATIC-USDC-PERP",
         "img": {
