@@ -1,8 +1,8 @@
 {
-  "nonce": 1,
+  "nonce": 2,
   "isShow": true,
-  "desc": "This is a testnet environment only. We appreciate your feedbacks on bugs/experience via the official Discord channel.",
-  "link": "https://discord.gg/jtUykm8bay",
+  "desc": "Warning: this is the v2.0 testnet legacy page, no longer under maintenance and will be suspended soon. Please move to v2.1 for the current testnet environment in use.",
+  "link": "http://v2-testnet.synfutures.com",
   "linkName": "Feedback",
-  "isOpenNewWindow": true
+  "isOpenNewWindow": false
 }
