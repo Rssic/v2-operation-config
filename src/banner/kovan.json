@@ -20,18 +20,18 @@
         }
       },
       {
-        "address": "0x4d6cf544349648f6bd0f7ba7eda93a2cb1baf5bb",
+        "address": "0xd8e5450cb876c5fb9ed9939085ab839777ef8047",
         "expiry": "0",
-        "symbol": "BTC-USDC-PERP",
+        "symbol": "UNI-USDC-PERP",
         "img": {
           "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_volume.png",
           "light-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/light/topic_volume.png"
         }
       },
       {
-        "address": "0x4d6cf544349648f6bd0f7ba7eda93a2cb1baf5bb",
+        "address": "0x928fe920564c7bd6ffdcb7e98af578e26edd8e21",
         "expiry": "0",
-        "symbol": "BTC-USDC-PERP",
+        "symbol": "BNB-USDC-PERP",
         "img": {
           "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_gain.png",
           "light-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/light/topic_gain.png"
@@ -48,15 +48,6 @@
       }
     ],
     "pool": [
-      {
-        "address": "0x4d6cf544349648f6bd0f7ba7eda93a2cb1baf5bb",
-        "expiry": "0",
-        "symbol": "BTC-USDC-PERP",
-        "img": {
-          "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_volume.png",
-          "light-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/light/topic_volume.png"
-        }
-      },
       {
         "address": "0x42a5bded8e6b7d1a0c929fc4c8148923e61f9faf",
         "expiry": "0",
@@ -76,9 +67,18 @@
         }
       },
       {
-        "address": "0x4d6cf544349648f6bd0f7ba7eda93a2cb1baf5bb",
+        "address": "0xd8e5450cb876c5fb9ed9939085ab839777ef8047",
         "expiry": "0",
-        "symbol": "BTC-USDC-PERP",
+        "symbol": "UNI-USDC-PERP",
+        "img": {
+          "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_volume.png",
+          "light-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/light/topic_volume.png"
+        }
+      },
+      {
+        "address": "0x928fe920564c7bd6ffdcb7e98af578e26edd8e21",
+        "expiry": "0",
+        "symbol": "BNB-USDC-PERP",
         "img": {
           "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_gain.png",
           "light-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/light/topic_gain.png"
