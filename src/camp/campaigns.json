@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Trade Polygon Pairs on SynFutures to Become a Polygon Star!",
-      "coverImg": "xxx.png",
+      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/banner.png",
       "status": "Ongoing",
       "link": "https://xxx",
       "isShowPrize": true,
@@ -14,7 +14,7 @@
     {
       "id": 2,
       "title": "Trade Polygon Pairs on SynFutures to Become a Polygon Star!",
-      "coverImg": "xxx.png",
+      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/banner.png",
       "status": "Ended",
       "link": "https://xxx",
       "isShowPrize": true,
@@ -25,8 +25,8 @@
     {
       "id": 3,
       "title": "Trade Polygon Pairs on SynFutures to Become a Polygon Star!",
-      "coverImg": "xxx.png",
-      "status": "ONGOING",
+      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/banner.png",
+      "status": "Ongoing",
       "link": "https://xxx",
       "isShowPrize": true,
       "prizeName": "Open Edition NFT",
@@ -36,8 +36,8 @@
     {
       "id": 4,
       "title": "Trade Polygon Pairs on SynFutures to Become a Polygon Star!",
-      "coverImg": "xxx.png",
-      "status": "ONGOING",
+      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/banner.png",
+      "status": "Ongoing",
       "link": "https://xxx",
       "isShowPrize": true,
       "prizeName": "Open Edition NFT",
@@ -47,8 +47,8 @@
     {
       "id": 5,
       "title": "Trade Polygon Pairs on SynFutures to Become a Polygon Star!",
-      "coverImg": "xxx.png",
-      "status": "ONGOING",
+      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/banner.png",
+      "status": "Ongoing",
       "link": "https://xxx",
       "isShowPrize": true,
       "prizeName": "Open Edition NFT",
@@ -58,8 +58,8 @@
     {
       "id": 6,
       "title": "Trade Polygon Pairs on SynFutures to Become a Polygon Star!",
-      "coverImg": "xxx.png",
-      "status": "ONGOING",
+      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/banner.png",
+      "status": "Ongoing",
       "link": "https://xxx",
       "isShowPrize": true,
       "prizeName": "Open Edition NFT",
@@ -69,8 +69,8 @@
     {
       "id": 7,
       "title": "Trade Polygon Pairs on SynFutures to Become a Polygon Star!",
-      "coverImg": "xxx.png",
-      "status": "ONGOING",
+      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/banner.png",
+      "status": "Ongoing",
       "link": "https://xxx",
       "isShowPrize": true,
       "prizeName": "Open Edition NFT",
@@ -80,8 +80,8 @@
     {
       "id": 8,
       "title": "Trade Polygon Pairs on SynFutures to Become a Polygon Star!",
-      "coverImg": "xxx.png",
-      "status": "ONGOING",
+      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/banner.png",
+      "status": "Ongoing",
       "link": "https://xxx",
       "isShowPrize": true,
       "prizeName": "Open Edition NFT",
