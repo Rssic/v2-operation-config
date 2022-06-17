@@ -7,7 +7,7 @@
       "status": "Ended",
       "link": "https://medium.com/synfutures/synfutures-2nd-futurex-show-notes-competition-cfbd6b0b06e3",
       "isShowPrize": false,
-      "prizeName": "",
+      "prizeName": "$100 in USDC rewards",
       "prizeImg": "",
       "eventPeriod": "October 9th - October 17th, 2021"
     },
@@ -17,7 +17,7 @@
       "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/2.png",
       "status": "Ended",
       "link": "https://medium.com/synfutures/synfutures-trading-competition-trade-to-win-exclusive-nfts-c1e32ac68e93",
-      "isShowPrize": true,
+      "isShowPrize": false,
       "prizeName": "NFT Rewards",
       "prizeImg": "",
       "eventPeriod": "October 15th - November 15th, 2021"
@@ -28,7 +28,7 @@
       "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/3.png",
       "status": "Ended",
       "link": "https://medium.com/synfutures/synfutures-trading-competition-2nd-epoch-the-quest-of-the-knights-13ee053953fb",
-      "isShowPrize": true,
+      "isShowPrize": false,
       "prizeName": "NFT Rewards",
       "prizeImg": "",
       "eventPeriod": "November 29th - December 29th, 2021"
@@ -41,8 +41,8 @@
       "link": "https://medium.com/synfutures/merry-christmas-get-ready-for-synta-bf82b3112291",
       "isShowPrize": true,
       "prizeName": "NFT Rewards",
-      "prizeImg": "",
-      "eventPeriod": "December 1th - December 24th, 2021"
+      "prizeImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/4r.png",
+      "eventPeriod": "December 1st - December 24th, 2021"
     },  
     {
       "id": 5,
@@ -52,7 +52,7 @@
       "link": "https://medium.com/synfutures/ring-in-the-new-year-with-synfutures-join-our-trading-competition-3-0-90653e676158",
       "isShowPrize": true,
       "prizeName": "NFT Rewards",
-      "prizeImg": "",
+      "prizeImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/5r.png",
       "eventPeriod": "December 24th 2021 - January 24th, 2022"
     },
     {
@@ -61,10 +61,10 @@
       "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/6.png",
       "status": "Ended",
       "link": "https://medium.com/synfutures/start-your-engine-and-get-ready-for-the-synrace-tournament-6aea016df122",
-      "isShowPrize": true,
+      "isShowPrize": false,
       "prizeName": "Special Edition NFTs",
       "prizeImg": "",
-      "eventPeriod": "Jan 17th – Jan 28, 2022"
+      "eventPeriod": "Jan 17th - Jan 28, 2022"
     },
     {
       "id": 7,
@@ -74,8 +74,8 @@
       "link": "https://synfutures.medium.com/compete-in-synrace-2-0-for-your-chance-to-win-the-gold-5e6a13701762",
       "isShowPrize": true,
       "prizeName": "Special Edition NFTs",
-      "prizeImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/specialedition.png",
-      "eventPeriod": "February 25th — March 17th, 2022"
+      "prizeImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/7r.png",
+      "eventPeriod": "February 25th - March 17th, 2022"
     },
     {
       "id": 8,
@@ -83,10 +83,10 @@
       "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/8.png",
       "status": "Ended",
       "link": "https://medium.com/synfutures/trade-arbitrum-pairs-on-synfutures-to-become-an-arbitrum-star-842a2d3cddf1",
-      "isShowPrize": true,
+      "isShowPrize": false,
       "prizeName": "Open Edition NFTs",
-      "prizeImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/openedition.png",
-      "eventPeriod": "Mar 15th — Mar 21st, 2022"
+      "prizeImg": "",
+      "eventPeriod": "Mar 15th - Mar 21st, 2022"
     },
     {
       "id": 9,
@@ -94,10 +94,10 @@
       "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/9.png",
       "status": "Ended",
       "link": "https://medium.com/synfutures/trade-polygon-pairs-on-synfutures-to-become-a-polygon-star-472d92277abf",
-      "isShowPrize": true,
+      "isShowPrize": false,
       "prizeName": "Limited Edition 3D NFT",
-      "prizeImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/9r.png",
-      "eventPeriod": "April 4th — April 18th, 2022"
+      "prizeImg": "",
+      "eventPeriod": "April 4th - April 18th, 2022"
     },
     {
       "id": 10,
@@ -105,10 +105,10 @@
       "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/10.png",
       "status": "Ended",
       "link": "https://medium.com/synfutures/synfutures-v2-testnet-is-now-open-27defe37f1cb",
-      "isShowPrize": true,
+      "isShowPrize": false,
       "prizeName": "$100 in USDC rewards",
       "prizeImg": "",
-      "eventPeriod": "April 28th — May 4th, 2022"
+      "eventPeriod": "April 28th - May 4th, 2022"
     },
     {
       "id": 11,
@@ -119,7 +119,7 @@
       "isShowPrize": false,
       "prizeName": "$50～$1000 in USDC rewards",
       "prizeImg": "",
-      "eventPeriod": "May 9th — June 7th, 2022"
+      "eventPeriod": "May 9th - June 7th, 2022"
     }
   ]
 }
