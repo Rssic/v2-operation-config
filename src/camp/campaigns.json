@@ -6,7 +6,7 @@
       "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/2ndfuturex.png",
       "status": "Ended",
       "link": "https://medium.com/synfutures/announcing-the-synfutures-v2-testnet-bug-bounty-program-46b589007806",
-      "isShowPrize": false,
+      "isShowPrize": true,
       "prizeName": "",
       "prizeImg": "",
       "eventPeriod": "April 9th - June 7th, 2022"
