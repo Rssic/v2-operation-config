@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "SynFutures’ 2nd FutureX Show Notes Competition",
-      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/2ndFutureX.png",
+      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/2ndfuturex.png",
       "status": "Ended",
       "link": "https://medium.com/synfutures/announcing-the-synfutures-v2-testnet-bug-bounty-program-46b589007806",
       "isShowPrize": false,
