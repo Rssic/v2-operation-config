@@ -2,91 +2,69 @@
   "prizeList": [
     {
       "id": 1,
-      "title": "Trade Polygon Pairs on SynFutures to Become a Polygon Star!",
-      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/banner.png",
-      "status": "Ongoing",
-      "link": "https://xxx",
-      "isShowPrize": true,
-      "prizeName": "Open Edition NFT",
-      "prizeImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/banner.png",
-      "eventPeriod": "1:00 pm, April 4th - 1:00pm, 18th, 2022 (UTC)"
+      "title": "Announcing the SynFutures V2 Testnet Bug Bounty Program",
+      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/bugbounty.png",
+      "status": "Ended",
+      "link": "https://medium.com/synfutures/announcing-the-synfutures-v2-testnet-bug-bounty-program-46b589007806",
+      "isShowPrize": false,
+      "prizeName": "",
+      "prizeImg": "",
+      "eventPeriod": "April 9th - June 7th, 2022"
     },
     {
       "id": 2,
-      "title": "Trade Polygon Pairs on SynFutures to Become a Polygon Star!",
-      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/banner.png",
+      "title": "SynFutures V2 Testnet is Now Open to Everyone—Join the Reward Campaign!",
+      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/rewardcampaign.png",
       "status": "Ended",
-      "link": "https://xxx",
-      "isShowPrize": true,
-      "prizeName": "Open Edition NFT",
-      "prizeImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/banner.png",
-      "eventPeriod": "1:00 pm, April 4th - 1:00pm, 18th, 2022 (UTC)"
+      "link": "https://medium.com/synfutures/synfutures-v2-testnet-is-now-open-27defe37f1cb",
+      "isShowPrize": false,
+      "prizeName": "",
+      "prizeImg": "",
+      "eventPeriod": "May 5th - May 9th, 2022"
     },
     {
       "id": 3,
       "title": "Trade Polygon Pairs on SynFutures to Become a Polygon Star!",
-      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/banner.png",
-      "status": "Ongoing",
-      "link": "https://xxx",
+      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/polygonstar.png",
+      "status": "Ended",
+      "link": "https://medium.com/synfutures/trade-polygon-pairs-on-synfutures-to-become-a-polygon-star-472d92277abf",
       "isShowPrize": true,
-      "prizeName": "Open Edition NFT",
-      "prizeImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/banner.png",
-      "eventPeriod": "1:00 pm, April 4th - 1:00pm, 18th, 2022 (UTC)"
+      "prizeName": "Open Edition NFTs",
+      "prizeImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/limitededition.png",
+      "eventPeriod": "1:00 pm, April 4th — 1:00 pm, April 18th, 2022 (UTC)"
     },
     {
       "id": 4,
-      "title": "Trade Polygon Pairs on SynFutures to Become a Polygon Star!",
-      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/banner.png",
-      "status": "Ongoing",
-      "link": "https://xxx",
+      "title": "Trade Arbitrum Pairs on SynFutures to Become an Arbitrum Star!",
+      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/arbitrumstar.png",
+      "status": "Ended",
+      "link": "https://medium.com/synfutures/trade-arbitrum-pairs-on-synfutures-to-become-an-arbitrum-star-842a2d3cddf1",
       "isShowPrize": true,
-      "prizeName": "Open Edition NFT",
-      "prizeImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/banner.png",
-      "eventPeriod": "1:00 pm, April 4th - 1:00pm, 18th, 2022 (UTC)"
+      "prizeName": "Open Edition NFTs",
+      "prizeImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/openedition.png",
+      "eventPeriod": "1:00 pm, Mar 15th — 1:00 pm, Mar 21st, 2022 (UTC)"
     },
     {
       "id": 5,
-      "title": "Trade Polygon Pairs on SynFutures to Become a Polygon Star!",
-      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/banner.png",
-      "status": "Ongoing",
-      "link": "https://xxx",
+      "title": "Compete in SynRace 2.0 for Your Chance to Win the Gold",
+      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/synrace2.0.png",
+      "status": "Ended",
+      "link": "https://synfutures.medium.com/compete-in-synrace-2-0-for-your-chance-to-win-the-gold-5e6a13701762",
       "isShowPrize": true,
-      "prizeName": "Open Edition NFT",
-      "prizeImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/banner.png",
-      "eventPeriod": "1:00 pm, April 4th - 1:00pm, 18th, 2022 (UTC)"
+      "prizeName": "Special Edition NFTs",
+      "prizeImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/specialedition.png",
+      "eventPeriod": "February 25 at 10:00 AM — March 17 at 10:00 AM (UTC)"
     },
     {
       "id": 6,
-      "title": "Trade Polygon Pairs on SynFutures to Become a Polygon Star!",
-      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/banner.png",
-      "status": "Ongoing",
-      "link": "https://xxx",
+      "title": "Start Your Engine and Get Ready for the SynRace Tournament",
+      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/synrace.png",
+      "status": "Ended",
+      "link": "https://medium.com/synfutures/start-your-engine-and-get-ready-for-the-synrace-tournament-6aea016df122",
       "isShowPrize": true,
-      "prizeName": "Open Edition NFT",
+      "prizeName": "Special Edition NFTs",
       "prizeImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/banner.png",
-      "eventPeriod": "1:00 pm, April 4th - 1:00pm, 18th, 2022 (UTC)"
-    },
-    {
-      "id": 7,
-      "title": "Trade Polygon Pairs on SynFutures to Become a Polygon Star!",
-      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/banner.png",
-      "status": "Ongoing",
-      "link": "https://xxx",
-      "isShowPrize": true,
-      "prizeName": "Open Edition NFT",
-      "prizeImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/banner.png",
-      "eventPeriod": "1:00 pm, April 4th - 1:00pm, 18th, 2022 (UTC)"
-    },
-    {
-      "id": 8,
-      "title": "Trade Polygon Pairs on SynFutures to Become a Polygon Star!",
-      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/banner.png",
-      "status": "Ongoing",
-      "link": "https://xxx",
-      "isShowPrize": true,
-      "prizeName": "Open Edition NFT",
-      "prizeImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/banner.png",
-      "eventPeriod": "1:00 pm, April 4th - 1:00pm, 18th, 2022 (UTC)"
+      "eventPeriod": "10:00 AM Jan 17–10:00 AM Jan 28 (UTC)"
     }
   ]
 }
