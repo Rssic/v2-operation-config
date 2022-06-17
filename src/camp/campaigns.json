@@ -1,39 +1,6 @@
 {
   "prizeList": [
     {
-      "id": 1,
-      "title": "SynFutures’ 2nd FutureX Show Notes Competition",
-      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/1.png",
-      "status": "Ended",
-      "link": "https://medium.com/synfutures/synfutures-2nd-futurex-show-notes-competition-cfbd6b0b06e3",
-      "isShowPrize": false,
-      "prizeName": "$100 in USDC rewards",
-      "prizeImg": "",
-      "eventPeriod": "October 9th - October 17th, 2021"
-    },
-    {
-      "id": 2,
-      "title": "SynFutures Trading Competition — Trade to Win Exclusive NFTs",
-      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/2.png",
-      "status": "Ended",
-      "link": "https://medium.com/synfutures/synfutures-trading-competition-trade-to-win-exclusive-nfts-c1e32ac68e93",
-      "isShowPrize": false,
-      "prizeName": "NFT Rewards",
-      "prizeImg": "",
-      "eventPeriod": "October 15th - November 15th, 2021"
-    },
-    {
-      "id": 3,
-      "title": "SynFutures Trading Competition 2nd Epoch: The Quest of the Knights",
-      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/3.png",
-      "status": "Ended",
-      "link": "https://medium.com/synfutures/synfutures-trading-competition-2nd-epoch-the-quest-of-the-knights-13ee053953fb",
-      "isShowPrize": false,
-      "prizeName": "NFT Rewards",
-      "prizeImg": "",
-      "eventPeriod": "November 29th - December 29th, 2021"
-    },
-    {
       "id": 4,
       "title": "Merry Christmas! Get ready for…Synta!",
       "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/4.png",
