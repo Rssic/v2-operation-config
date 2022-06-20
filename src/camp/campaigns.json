@@ -50,9 +50,9 @@
       "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/8.png",
       "status": "Ended",
       "link": "https://medium.com/synfutures/trade-arbitrum-pairs-on-synfutures-to-become-an-arbitrum-star-842a2d3cddf1",
-      "isShowPrize": false,
+      "isShowPrize": true,
       "prizeName": "Open Edition NFTs",
-      "prizeImg": "",
+      "prizeImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/8r.png",
       "eventPeriod": "Mar 15th - Mar 21st, 2022"
     },
     {
@@ -61,9 +61,9 @@
       "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/9.png",
       "status": "Ended",
       "link": "https://medium.com/synfutures/trade-polygon-pairs-on-synfutures-to-become-a-polygon-star-472d92277abf",
-      "isShowPrize": false,
+      "isShowPrize": true,
       "prizeName": "Limited Edition 3D NFT",
-      "prizeImg": "",
+      "prizeImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/9r.png",
       "eventPeriod": "April 4th - April 18th, 2022"
     },
     {
