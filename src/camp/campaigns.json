@@ -1,16 +1,5 @@
 {
-  "prizeList": [
-    {
-      "id": 4,
-      "title": "Merry Christmas! Get ready for…Synta!",
-      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/4.png",
-      "status": "Ended",
-      "link": "https://medium.com/synfutures/merry-christmas-get-ready-for-synta-bf82b3112291",
-      "isShowPrize": true,
-      "prizeName": "NFT Rewards",
-      "prizeImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/4r.png",
-      "eventPeriod": "December 1st - December 24th, 2021"
-    },  
+  "prizeList": [ 
     {
       "id": 5,
       "title": "Ring in the New Year with SynFutures: Join Our Trading Competition 3.0",
