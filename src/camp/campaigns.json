@@ -76,17 +76,6 @@
       "prizeName": "$50～$1000 in USDC rewards",
       "prizeImg": "",
       "eventPeriod": "May 9th - June 7th, 2022"
-    },
-     {
-      "id": 11,
-      "title": "Announcing the SynFutures V2 Testnet Bug Bounty Program",
-      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/11.png",
-      "status": "Ended",
-      "link": "https://medium.com/synfutures/announcing-the-synfutures-v2-testnet-bug-bounty-program-46b589007806",
-      "isShowPrize": false,
-      "prizeName": "$50～$1000 in USDC rewards",
-      "prizeImg": "",
-      "eventPeriod": "May 9th - June 7th, 2022"
     }
   ]
 }
