@@ -3,9 +3,7 @@
     {
       "title": "🚀 Newly Listed",
       "pairIds": [
-        "0xbb856cffff648294277529c2bd6eaa9496bad850-0",
-        "0xb6216a454f6164a3b5d3a0ffaf8a6330002c75c3-0",
-        "0xbb856cffff648294277529c2bd6eaa9496bad850-1664524800"
+        "0x1dd725382bc043f378811cc39ecd38f108e0842e-0"
       ],
       "img": {
         "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_new_list.png",
@@ -15,9 +13,7 @@
     {
       "title": "🔥 Hot Pairs",
       "pairIds": [
-         "0xbb856cffff648294277529c2bd6eaa9496bad850-0",
-        "0xb6216a454f6164a3b5d3a0ffaf8a6330002c75c3-0",
-        "0xbb856cffff648294277529c2bd6eaa9496bad850-1664524800"
+         "0x1dd725382bc043f378811cc39ecd38f108e0842e-0"
       ],
       "img": {
         "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_hot_pairs.png",
