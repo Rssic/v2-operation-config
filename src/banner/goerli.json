@@ -3,9 +3,9 @@
     {
       "title": "🚀 Newly Listed",
       "pairIds": [
-        "0x42a5bded8e6b7d1a0c929fc4c8148923e61f9faf-0",
-        "0x4d6cf544349648f6bd0f7ba7eda93a2cb1baf5bb-0",
-        "0x928fe920564c7bd6ffdcb7e98af578e26edd8e21-0"
+        "0xbb856cffff648294277529c2bd6eaa9496bad850-0",
+        "0xb6216a454f6164a3b5d3a0ffaf8a6330002c75c3-0",
+        "0xbb856cffff648294277529c2bd6eaa9496bad850-1664524800"
       ],
       "img": {
         "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_new_list.png",
@@ -15,9 +15,9 @@
     {
       "title": "🔥 Hot Pairs",
       "pairIds": [
-        "0x42a5bded8e6b7d1a0c929fc4c8148923e61f9faf-0",
-        "0x4d6cf544349648f6bd0f7ba7eda93a2cb1baf5bb-0",
-        "0x928fe920564c7bd6ffdcb7e98af578e26edd8e21-0"
+         "0xbb856cffff648294277529c2bd6eaa9496bad850-0",
+        "0xb6216a454f6164a3b5d3a0ffaf8a6330002c75c3-0",
+        "0xbb856cffff648294277529c2bd6eaa9496bad850-1664524800"
       ],
       "img": {
         "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_hot_pairs.png",
