@@ -1,17 +1,7 @@
 {
   "bannerList": [
     {
-      "title": "🚀 Newly Listed",
-      "pairIds": [
-        "0x1dd725382bc043f378811cc39ecd38f108e0842e-0"
-      ],
-      "img": {
-        "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_new_list.png",
-        "light-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/light/topic_new_list.png"
-      }
-    },
-    {
-      "title": "🔥 Hot Pairs",
+      "title": "🚀 Trending",
       "pairIds": [
          "0x1dd725382bc043f378811cc39ecd38f108e0842e-0"
       ],
