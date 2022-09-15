@@ -3,7 +3,13 @@
     {
       "title": "🚀 Trending",
       "pairIds": [
-         "0x1dd725382bc043f378811cc39ecd38f108e0842e-0"
+        "0xbb856cffff648294277529c2bd6eaa9496bad850-0",
+        "0xb6216a454f6164a3b5d3a0ffaf8a6330002c75c3-0",
+        "0x6169ee83153237c3a23a0bd9abca0b3f3217f783-0",
+        "0x0987ed35589850ad2c0fa9217c884b4239391c8f-0",
+        "0x3c59e1df54e2ce2f544327870f4405dcd2f75d55-0",
+        "0xbb856cffff648294277529c2bd6eaa9496bad850-1672387200",
+        "0xb6216a454f6164a3b5d3a0ffaf8a6330002c75c3-1672387200"
       ],
       "img": {
         "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_hot_pairs.png",
