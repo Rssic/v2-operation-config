@@ -76,6 +76,17 @@
       "prizeName": "$50～$1000 in USDC rewards",
       "prizeImg": "",
       "eventPeriod": "May 9th - June 7th, 2022"
+    },
+    {
+      "id": 12,
+      "title": "SynFutures and Bitkeep Joint Airdrop Campaign",
+      "coverImg": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/camp/images/12.png",
+      "status": "Ongoing",
+      "link": "https://sharea.bitkeep.asia/airdropDetails?activity=274",
+      "isShowPrize": false,
+      "prizeName": "$500 USDC and 1000 NFT rewards",
+      "prizeImg": "",
+      "eventPeriod": "Sept 16th - Sept 21th, 2022"
     }
   ]
 }
