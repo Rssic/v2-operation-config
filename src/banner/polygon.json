@@ -1,0 +1,14 @@
+{
+  "bannerList": [
+    {
+      "title": "🚀 Trending",
+      "pairIds": [
+         "0x1dd725382bc043f378811cc39ecd38f108e0842e-0"
+      ],
+      "img": {
+        "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_hot_pairs.png",
+        "light-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/light/topic_hot_pairs.png"
+      }
+    }
+  ]
+}
