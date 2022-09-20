@@ -1,0 +1,16 @@
+{
+  "bannerList": [
+    {
+      "title": "🚀 Trending",
+      "pairIds": [
+        "0xf479405a2518b02a79c060f3d91fe0c98cfe6e25-0",
+        "0x89cf9a71d45c58673a7f8b4c829df466da7a473a-0",
+        "0x64b8b618cddc31c61305338c6ab7a2d85a7ab5ca-0"
+      ],
+      "img": {
+        "dark-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/dark/topic_hot_pairs.png",
+        "light-theme": "https://raw.githubusercontent.com/SynFutures/v2-operation-config/dev/src/banner/images/slick/light/topic_hot_pairs.png"
+      }
+    }
+  ]
+}
