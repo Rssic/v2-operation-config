@@ -76,6 +76,17 @@
       "prizeName": "$50～$1000 in USDC rewards",
       "prizeImg": "",
       "eventPeriod": "May 9th - June 7th, 2022"
+    },
+    {
+      "id": 12,
+      "title": "Ring in the New Year with SynFutures: Launches Bug Bounty Campaign",
+      "coverImg": "https://github.com/SynFutures/v2-operation-config/blob/cbd78584cae05537bbec482aca4bc5fdd409aff0/src/camp/images/8.png",
+      "status": "Ongoing",
+      "link": "https://medium.com/synfutures/synfutures-goes-mobile-on-testnet-launches-bug-bounty-campaign-af561334d3df",
+      "isShowPrize": true,
+      "prizeName": "USDC Rewards",
+      "prizeImg": "https://github.com/SynFutures/v2-operation-config/blob/cbd78584cae05537bbec482aca4bc5fdd409aff0/src/camp/images/8r.png",
+      "eventPeriod": "September 20th 2022 - September 26th, 2022"
     }
   ]
 }
