@@ -1,8 +1,8 @@
 {
-  "nonce": 1,
+  "nonce": 2,
   "isShow": true,
-  "desc": "This is a testnet environment only. We appreciate your feedbacks on bugs/experience via the official Discord channel.",
-  "link": "https://discord.gg/jtUykm8bay",
-  "linkName": "Feedback",
+  "desc": "SynFutures V2 Closed Alpha - You will need to be whitelisted in order to participate in this beta. Sign up now to get on the waitlist.",
+  "link": "https://synfutures.typeform.com/internaltesting",
+  "linkName": "Sign Up",
   "isOpenNewWindow": true
 }
